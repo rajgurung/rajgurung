@@ -68,6 +68,15 @@ Lately I'm leaning hard into AI-assisted engineering: how teams keep trust, revi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=06060a)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white&labelColor=06060a)
 
+## ◆ GitHub
+
+<div align="center">
+
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajgurung&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=06060a&title_color=f5a524&icon_color=fbbf24&text_color=c9c9d1&ring_color=f5a524)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajgurung&layout=compact&langs_count=8&hide_border=true&bg_color=06060a&title_color=f5a524&text_color=c9c9d1)
+
+</div>
+
 ## ◆ Writing
 
 I write essays on life, lessons, and software at [**rajgurung.me/writing**](https://rajgurung.me/writing). Recent themes: AI-assisted engineering, building calm products, and the long road between Nepal and the UK.
