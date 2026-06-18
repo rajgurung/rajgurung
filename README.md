@@ -81,9 +81,9 @@ I write essays on life, lessons, and software at [rajgurung.me/writing](https://
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajgurung&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&hide_title=true&hide_rank=true&bg_color=00000000&icon_color=f5a524&text_color=8a8a94)
+![GitHub stats](https://github-readme-stats-zeta-orpin-28.vercel.app/api?username=rajgurung&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&hide_title=true&hide_rank=true&bg_color=00000000&icon_color=f5a524&text_color=8a8a94)
 &nbsp;&nbsp;
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajgurung&layout=compact&langs_count=6&hide=html,css,scss,mdx,plpgsql&hide_border=true&bg_color=00000000&title_color=f5a524&text_color=8a8a94&cache_seconds=86400)
+![Most used languages](https://github-readme-stats-zeta-orpin-28.vercel.app/api/top-langs/?username=rajgurung&layout=compact&langs_count=6&hide=html,css,scss,mdx,plpgsql&hide_border=true&bg_color=00000000&title_color=f5a524&text_color=8a8a94&cache_seconds=86400)
 
 <br/>
 
