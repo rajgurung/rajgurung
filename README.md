@@ -26,7 +26,7 @@ Lately I'm leaning hard into AI-assisted engineering: how teams keep trust, revi
 
 - 🛠️ Shipping with **Rails**, **Terraform**, and **Claude**
 - 🧠 Building a trust and review layer for AI-assisted engineering ([staffOS](https://github.com/rajgurung/staffOS))
-- ✍️ Writing about engineering, AI, and the road between Nepal 🇳🇵 and the UK 🇬🇧
+- ✍️ Writing about engineering, AI, and the road between Nepal 🇳🇵, the UK 🇬🇧, and wherever I've set up the laptop this month 🌍
 - 🎮 Making a horde-shooter on the side because it's fun
 
 ## ◆ Building now
@@ -79,11 +79,11 @@ Lately I'm leaning hard into AI-assisted engineering: how teams keep trust, revi
 
 ## ◆ Writing
 
-I write essays on life, lessons, and software at [**rajgurung.me/writing**](https://rajgurung.me/writing). Recent themes: AI-assisted engineering, building calm products, and the long road between Nepal and the UK.
+I write essays on life, lessons, and software at [**rajgurung.me/writing**](https://rajgurung.me/writing). Recent themes: AI-assisted engineering, building calm products, and the long road from Nepal to the UK to wherever the next time zone happens to be.
 
 <div align="center">
 <br/>
 
-`one step at a time` &middot; built between 🇳🇵 and 🇬🇧
+`one step at a time` &middot; built between 🇳🇵, 🇬🇧, and wherever I am this week 🌍
 
 </div>
