@@ -73,7 +73,7 @@ Lately I'm leaning hard into AI-assisted engineering: how teams keep trust, revi
 <div align="center">
 
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajgurung&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=06060a&title_color=f5a524&icon_color=fbbf24&text_color=c9c9d1&ring_color=f5a524)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajgurung&layout=compact&langs_count=8&hide_border=true&bg_color=06060a&title_color=f5a524&text_color=c9c9d1)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajgurung&layout=compact&langs_count=6&hide=html,css,scss,mdx,plpgsql&hide_border=true&bg_color=06060a&title_color=f5a524&text_color=c9c9d1&cache_seconds=86400)
 
 </div>
 
