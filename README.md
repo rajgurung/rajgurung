@@ -25,7 +25,7 @@ Shipping with **Rails, Terraform, and Claude**. Writing about engineering, AI, a
 | Project | What it is |
 |---|---|
 | [**warden-zero**](https://github.com/rajgurung/warden-zero) | Chaotic top-down arena horde shooter. Survive escalating waves, level up from gems, build your loadout, beat the boss |
-| [**softly**](https://github.com/rajgurung/softly) | Life admin, handled softly. A calm tool for the things life keeps throwing at you ([mysoftly.app](https://mysoftly.app)) |
+| [**softly**](https://mysoftly.app) | Life admin, handled softly. A calm tool for the things life keeps throwing at you ([mysoftly.app](https://mysoftly.app)) |
 | [**staffOS**](https://github.com/rajgurung/staffOS) | The trust, review, and documentation layer for AI-assisted engineering work |
 | [**pulsecheck**](https://github.com/rajgurung/pulsecheck-landing) | AI signal monitoring. Know when something that matters moves |
 
