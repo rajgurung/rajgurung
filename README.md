@@ -52,24 +52,24 @@ Lately I'm leaning into AI-assisted engineering: how teams keep trust, review, a
 ### Toolbox
 
 Languages &nbsp;
-![Ruby](https://img.shields.io/badge/Ruby-0d0d12?style=flat-square&logo=ruby&logoColor=CC342D)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d12?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d12?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Elixir](https://img.shields.io/badge/Elixir-0d0d12?style=flat-square&logo=elixir&logoColor=A78BFA)
-![Go](https://img.shields.io/badge/Go-0d0d12?style=flat-square&logo=go&logoColor=00ADD8)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 Frameworks &nbsp;
-![Rails](https://img.shields.io/badge/Rails-0d0d12?style=flat-square&logo=rubyonrails&logoColor=E0382B)
-![Phoenix](https://img.shields.io/badge/Phoenix-0d0d12?style=flat-square&logo=phoenixframework&logoColor=FD4F00)
-![React](https://img.shields.io/badge/React-0d0d12?style=flat-square&logo=react&logoColor=61DAFB)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 Data &amp; Infra &nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d12?style=flat-square&logo=postgresql&logoColor=5B9BFF)
-![Redis](https://img.shields.io/badge/Redis-0d0d12?style=flat-square&logo=redis&logoColor=FF4438)
-![Kafka](https://img.shields.io/badge/Kafka-0d0d12?style=flat-square&logo=apachekafka&logoColor=E8E8EA)
-![AWS](https://img.shields.io/badge/AWS-0d0d12?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Terraform](https://img.shields.io/badge/Terraform-0d0d12?style=flat-square&logo=terraform&logoColor=A487E0)
-![Docker](https://img.shields.io/badge/Docker-0d0d12?style=flat-square&logo=docker&logoColor=2496ED)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <br/>
 
