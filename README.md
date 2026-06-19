@@ -11,11 +11,11 @@ gaming &middot; housing &middot; fraud detection &middot; workforce systems
 
 [![Website](https://img.shields.io/badge/rajgurung.me-f5a524?style=flat-square&logo=googlechrome&logoColor=06060a)](https://rajgurung.me)
 &nbsp;
-[![Writing](https://img.shields.io/badge/Writing-0d0d12?style=flat-square)](https://rajgurung.me/writing)
+[![Writing](https://img.shields.io/badge/Writing-FBBF24?style=flat-square&logo=readme&logoColor=06060a)](https://rajgurung.me/writing)
 &nbsp;
-[![Hire](https://img.shields.io/badge/Hire-0d0d12?style=flat-square)](https://rajgurung.me/hire)
+[![Hire](https://img.shields.io/badge/Hire-2EA043?style=flat-square)](https://rajgurung.me/hire)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d12?style=flat-square&logo=linkedin&logoColor=e8e8ea)](https://www.linkedin.com/in/raj---gurung)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/raj---gurung)
 
 </div>
 
@@ -67,7 +67,7 @@ Data &amp; Infra &nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
