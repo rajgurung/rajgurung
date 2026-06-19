@@ -75,7 +75,7 @@ Data &amp; Infra &nbsp;
 
 ### Writing
 
-I write essays on life, lessons, and software at [rajgurung.me/writing](https://rajgurung.me/writing) (by no means a writer, just someone who thinks out loud). Recent themes: AI-assisted engineering, building calm products, and the long road from Nepal to the UK to wherever the next time zone happens to be.
+I write essays on life, lessons, and software at [rajgurung.me/writing](https://rajgurung.me/writing) (by no means a writer, just someone sharing from his little corner of the quiet internet). Recent themes: AI-assisted engineering, building calm products, and the long road from Nepal to the UK to wherever the next time zone happens to be.
 
 <br/>
 
