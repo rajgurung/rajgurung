@@ -2,7 +2,7 @@
 
 # Raj Gurung
 
-Senior Software Engineer &middot; London 🇬🇧
+Senior Software Engineer &middot; Founder of [Zen Scale](https://zen-scale.io) &middot; London 🇬🇧
 
 15+ years building mission-critical platforms across<br/>
 gaming &middot; housing &middot; fraud detection &middot; workforce systems
@@ -14,6 +14,10 @@ gaming &middot; housing &middot; fraud detection &middot; workforce systems
 [![Writing](https://img.shields.io/badge/Writing-FBBF24?style=flat-square&logo=readme&logoColor=06060a)](https://rajgurung.me/writing)
 &nbsp;
 [![Hire](https://img.shields.io/badge/Hire-2EA043?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMCAyYTIgMiAwIDAgMC0yIDJ2MUg0YTIgMiAwIDAgMC0yIDJ2MTJhMiAyIDAgMCAwIDIgMmgxNmEyIDIgMCAwIDAgMi0yVjdhMiAyIDAgMCAwLTItMmgtNFY0YTIgMiAwIDAgMC0yLTJoLTR6bTAgMmg0djFoLTRWNHpNNCA5aDE2djNINFY5em0wIDVoNnYyaDR2LTJoNnY1SDR2LTV6Ii8+PC9zdmc+)](https://rajgurung.me/hire)
+&nbsp;
+[![Zen Scale](https://img.shields.io/badge/Zen_Scale-2B6BE6?style=flat-square)](https://zen-scale.io)
+&nbsp;
+[![Book a call](https://img.shields.io/badge/Book_a_call-FFC53D?style=flat-square&logoColor=10213A)](https://cal.com/zenscale/intro)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=)](https://www.linkedin.com/in/raj---gurung)
 
