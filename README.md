@@ -2,7 +2,7 @@
 
 # Raj Gurung
 
-Senior Software Engineer &middot; Founder of [Zen Scale](https://zen-scale.io) &middot; London 🇬🇧
+Principal Engineer at [Zen Scale](https://zen-scale.io) &middot; London 🇬🇧
 
 15+ years building mission-critical platforms across<br/>
 gaming &middot; housing &middot; fraud detection &middot; workforce systems
