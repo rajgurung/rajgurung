@@ -44,12 +44,14 @@ Lately I'm leaning into AI-assisted engineering: how teams keep trust, review, a
 
 ### Projects
 
-| Project | What it is |
-|---|---|
-| [warden-zero](https://github.com/rajgurung/warden-zero) | A top-down arena horde shooter. Survive escalating waves, level up from gems, build your loadout, beat the boss |
-| softly 🔒 | Life admin, handled softly. A calm tool for the things life keeps throwing at you. Live at [mysoftly.app](https://mysoftly.app) |
-| [staffOS](https://github.com/rajgurung/staffOS) | The trust, review, and documentation layer for AI-assisted engineering work |
-| [pulsecheck](https://github.com/rajgurung/pulsecheck-landing) | AI signal monitoring. Know when something that matters moves |
+| Project | What it is | Try it |
+|---|---|---|
+| [Collab](https://github.com/rajgurung/collaboration_tool) | A calm workspace for small teams: roadmap, tasks, meeting notes and live chat. Works with Claude through MCP. Rust, Loco, HTMX | [collab.zen-scale.io](https://collab.zen-scale.io) |
+| [Compress](https://github.com/rajgurung/compress) | Make PDFs and JPGs smaller in your browser. Files never leave your device | [compress.zen-scale.io](https://compress.zen-scale.io) |
+| softly 🔒 | Life admin, handled softly. A calm tool for the things life keeps throwing at you | [mysoftly.app](https://mysoftly.app) |
+| [warden-zero](https://github.com/rajgurung/warden-zero) | A top-down arena horde shooter. Survive escalating waves, level up from gems, build your loadout, beat the boss | [Play it](https://warden-zero.vercel.app) |
+| [staffOS](https://github.com/rajgurung/staffOS) | The trust, review, and documentation layer for AI-assisted engineering work | [staffos.rajgurung.me](https://staffos.rajgurung.me) |
+| [pulsecheck](https://github.com/rajgurung/pulsecheck-landing) | AI signal monitoring. Know when something that matters moves | [pulsecheck-landing.vercel.app](https://pulsecheck-landing.vercel.app) |
 
 <br/>
 
